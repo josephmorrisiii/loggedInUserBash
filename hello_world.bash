@@ -7,7 +7,7 @@ echo
 
 echo "I will now fetch you a list of connected users:"
 echo 
-nslookup
+W
 echo
 
 echo "I'm setting two variables now."
